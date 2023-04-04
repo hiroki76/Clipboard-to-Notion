@@ -35,3 +35,11 @@ Clipboard to Notionは、クリップボードの内容を自動的にNotionに�
 
 4. アプリケーションを実行します。  
 `python app.py`
+
+以下は、各ライブラリのライセンスです：
+
+1. Flask - BSD 3-Clause License
+2. Flask-CORS - MIT License
+3. Pyperclip - MIT License
+4. Notion-client - MIT License
+5. python-dotenv - BSD 3-Clause License
