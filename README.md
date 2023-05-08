@@ -3,12 +3,12 @@
 ### Video Demo:  <URL HERE>
 ## Description
 
-Clipboard to Notionは、クリップボードの内容を自動的にNotionに保存するFlaskアプリケーションです。このアプリケーションは、クリップボードからテキストを取得し、デバイス名とともにNotionデータベースに新しいページとして保存します。
+Clipboard to Notionは、PC上のクリップボードの内容を監視して自動的にNotionに保存するFlaskアプリケーションです。このアプリケーションは、クリップボードからテキストを取得し、デバイス名とともにNotionデータベースに新しいページとして保存します。
 
 ## Features
 
-- クリップボードの内容（テキスト）を自動的にNotionデータベースに保存
-- 端末名も同時に保存
+- クリップボードの内容（テキスト）を自動的にNotionデータベースのContent列に保存
+- 端末名をNotionデータベースのDevice Name列に保存
 
 ## Installation
 
