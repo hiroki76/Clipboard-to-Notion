@@ -1,5 +1,5 @@
-Flask==2.1.1
-flask-cors==3.1.1
-notion-client==0.1.0
+Flask==2.3.2
+flask-cors==3.0.10
+notion-client==2.0.0
 pyperclip==1.8.2
-python-dotenv==0.19.1
+python-dotenv==1.0.0
