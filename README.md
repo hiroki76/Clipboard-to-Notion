@@ -21,7 +21,7 @@ Clipboard to Notionは、クリップボードの内容を自動的にNotionに�
 
 `pip install -r requirements.txt`
 
-失敗する場合は下記を実行してください。
+失敗する場合は以下を実行してください。
 
 `pip install python-dotenv`
 `pip install Flask`
